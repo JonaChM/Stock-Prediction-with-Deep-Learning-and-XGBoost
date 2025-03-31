@@ -31,7 +31,7 @@ Based on our analysis, LSTM significantly outperforms XGBoost for this task, wit
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/stock-prediction-deep-learning-xgboost.git
+git clone https://github.com/JonaChM/stock-prediction-deep-learning-xgboost.git
 cd stock-prediction-deep-learning-xgboost
 
 # Create and activate a virtual environment (optional but recommended)
